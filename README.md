@@ -1,4 +1,4 @@
-# project_elixir_controversy
+# PROJECT ELIXIR CONTROVERSY
 
 Project Elixir Custom ROM: The Rise, Controversy, and Fall
 Introduction
