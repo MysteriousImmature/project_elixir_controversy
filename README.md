@@ -1,7 +1,7 @@
 # PROJECT ELIXIR CONTROVERSY
 
-Project Elixir Custom ROM: The Rise, Controversy, and Fall
-Introduction
+## Project Elixir Custom ROM: The Rise, Controversy, and Fall
+### Introduction
 
 Project Elixir, once a promising custom ROM in the Android community, aimed to enhance user experience by providing a sleek, efficient, and customizable operating system for various Android devices. However, recent events have led to its abrupt discontinuation, leaving many users and developers reflecting on the ethical implications of software enforcement methods.
 
